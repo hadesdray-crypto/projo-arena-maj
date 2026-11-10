@@ -1,9 +1,9 @@
 {
-  "code": 29,
-  "nom": "1.29",
+  "code": 30,
+  "nom": "1.30",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Jeu de tir : on peut tenir le téléphone comme un pistolet (tranche du haut ou du côté) et viser le long du bord.",
-    "Onglet Images : « noirs absolus » et « garder seulement ce qui bouge » pour projeter une vidéo sur fond noir, seule l'animation est éclairée."
+    "Nouveau : zones sans projection (onglet Forme). Ajoute des ronds, carrés, triangles ou formes libres où rien n'est éclairé ; elles restent fixes sur le mur et se modifient point par point, avec bord net ou adouci.",
+    "Les zones sont enregistrées dans les profils et revenues à zéro par « Tout remettre à zéro »."
   ]
 }

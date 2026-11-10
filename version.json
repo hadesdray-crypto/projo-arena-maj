@@ -1,15 +1,16 @@
 {
-  "code": 9,
-  "nom": "1.9",
+  "code": 10,
+  "nom": "1.10",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
+    "Retour en arrière : la flèche retour du téléphone et un bouton « Annuler la dernière action » reviennent à l'action d'avant, autant de fois que tu veux.",
+    "Test automatique de connexion : l'appli liste les écrans, câbles USB et le Wi-Fi qu'elle voit.",
+    "Connexion forcée : tu choisis toi-même l'écran du projecteur si l'appli ne le prend pas toute seule.",
+    "Détection immédiate quand on branche ou débranche un câble.",
     "Éditeur de contour : zoom, loupe, sélection précise d'un point et déplacement.",
     "Touche un trait pour ajouter un point et le tirer.",
     "Chaque point au choix : droit ou arrondi.",
     "Toutes les formes toutes faites sont modifiables, plus une Forme libre.",
-    "Nouvelles portes à angles droits : simple, double, basse, haut arrondi, angle coupé, et un triangle.",
-    "Mise à jour sur place : l'appli te propose les nouvelles versions à l'ouverture, avec cette liste.",
-    "Menus rangés par onglets : Forme, Images, Lignes, Visages, Projecteur.",
-    "Grille de points fine (9, 25 ou 49 points) pour épouser les arêtes, pentes et arrondis."
+    "Nouvelles portes à angles droits : simple, double, basse, haut arrondi, angle coupé, et un triangle."
   ]
 }

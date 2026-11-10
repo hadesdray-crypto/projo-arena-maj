@@ -1,9 +1,9 @@
 {
-  "code": 20,
-  "nom": "1.20",
+  "code": 21,
+  "nom": "1.21",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Le jeu de tir utilise maintenant de vrais dessins : canards, oiseaux, lapins, taupes, poule, cibles, décor de campagne.",
-    "Image du jeu plus fine sur le mur (720 lignes au lieu de 540)."
+    "Nouveau style pour toute l'appli : boutons en bois et laiton, boutons choisis en or, cadres bleu nuit.",
+    "Fond d'écran illustré (arche lumineuse sous un ciel étoilé) sur l'écran principal."
   ]
 }

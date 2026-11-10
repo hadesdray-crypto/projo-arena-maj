@@ -1,15 +1,15 @@
 {
-  "code": 11,
-  "nom": "1.11",
+  "code": 12,
+  "nom": "1.12",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
+    "Trois couches dans l'aperçu, une à la fois : 1 Distorsion (ronds jaunes), 2 Image (glisser, pincer), 3 Contour (points de la forme).",
+    "Mode Contour : touche un point de la forme pour le tirer, touche un trait pour y créer un coin et le tirer en pointe.",
+    "Boutons du mode Contour : point rond ou angle droit, supprimer le point, forme d'origine.",
     "Vidéo du téléphone : tu choisis la vidéo, puis l'image qui sert au cadrage avec un curseur, tu cadres et déformes sur cette image, puis Lecture : la vidéo suit ton cadrage, avec le son.",
     "Réglages de la vidéo : qualité de l'image (légère, normale, haute), volume, son coupé.",
     "Profils enregistrés : tu sauvegardes un réglage (forme, points, cadrage) sous un nom et tu le recharges tel quel.",
     "Retour en arrière : la flèche retour du téléphone et un bouton « Annuler la dernière action » reviennent à l'action d'avant, autant de fois que tu veux.",
-    "Test automatique de connexion : l'appli liste les écrans, câbles USB et le Wi-Fi qu'elle voit.",
-    "Connexion forcée : tu choisis toi-même l'écran du projecteur si l'appli ne le prend pas toute seule.",
-    "Détection immédiate quand on branche ou débranche un câble.",
-    "Éditeur de contour : zoom, loupe, sélection précise d'un point et déplacement."
+    "Test automatique de connexion : l'appli liste les écrans, câbles USB et le Wi-Fi qu'elle voit."
   ]
 }

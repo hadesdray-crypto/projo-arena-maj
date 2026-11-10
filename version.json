@@ -1,14 +1,15 @@
 {
-  "code": 8,
-  "nom": "1.8",
+  "code": 9,
+  "nom": "1.9",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
+    "Éditeur de contour : zoom, loupe, sélection précise d'un point et déplacement.",
+    "Touche un trait pour ajouter un point et le tirer.",
+    "Chaque point au choix : droit ou arrondi.",
+    "Toutes les formes toutes faites sont modifiables, plus une Forme libre.",
+    "Nouvelles portes à angles droits : simple, double, basse, haut arrondi, angle coupé, et un triangle.",
     "Mise à jour sur place : l'appli te propose les nouvelles versions à l'ouverture, avec cette liste.",
     "Menus rangés par onglets : Forme, Images, Lignes, Visages, Projecteur.",
-    "Grille de points fine (9, 25 ou 49 points) pour épouser les arêtes, pentes et arrondis.",
-    "Ligne de lumière : un personnage ou un objet sort de la ligne ou y rentre, le reste reste noir.",
-    "Simulation sur une photo du lieu, avec projecteur et cône de lumière.",
-    "Formes 3D déjà déformées, personnages animés, globe, porte et visages réglables.",
-    "Connexion au projecteur dans un seul menu."
+    "Grille de points fine (9, 25 ou 49 points) pour épouser les arêtes, pentes et arrondis."
   ]
 }

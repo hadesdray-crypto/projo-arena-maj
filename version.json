@@ -1,9 +1,8 @@
 {
-  "code": 21,
-  "nom": "1.21",
+  "code": 22,
+  "nom": "1.22",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Nouveau style pour toute l'appli : boutons en bois et laiton, boutons choisis en or, cadres bleu nuit.",
-    "Fond d'écran illustré (arche lumineuse sous un ciel étoilé) sur l'écran principal."
+    "Nouvelle icône de l'appli : le petit projecteur qui éclaire une porte."
   ]
 }

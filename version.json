@@ -1,14 +1,15 @@
 {
-  "code": 16,
-  "nom": "1.16",
+  "code": 17,
+  "nom": "1.17",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
+    "Mode récepteur pour le projecteur : installée sur un projecteur Android, l'appli retrouve toute seule ton téléphone sur le réseau et affiche l'image en plein écran.",
+    "Le téléphone s'annonce tout seul sur le réseau dès qu'on ouvre l'appli.",
+    "Sur un projecteur sans écran tactile, l'appli se lance directement en mode récepteur.",
+    "Bouton « Cet appareil est le projecteur » dans l'onglet Projecteur.",
     "Recopie d'écran : l'appli essaie d'ouvrir Smart View de Samsung directement, qui est le système utilisé par les projecteurs comme le tien.",
     "Explications exactes pour Smart View, avec le chemin à suivre si le raccourci n'apparaît pas.",
     "Une fois le projecteur relié, le gros bouton devient une petite ligne discrète : tu peux toujours en ajouter un autre.",
-    "La connexion se refait toute seule à chaque ouverture, sans refaire les manipulations.",
-    "La diffusion par le réseau repart aussi toute seule si tu l'avais lancée.",
-    "Un seul gros bouton rouge « RELIER MON PROJECTEUR » en haut de l'écran : l'appli cherche toute seule, et ne pose des questions que si elle ne trouve rien.",
-    "Il devient vert quand le projecteur est relié."
+    "La connexion se refait toute seule à chaque ouverture, sans refaire les manipulations."
   ]
 }

@@ -1,1 +1,14 @@
-{"code":7,"nom":"1.7","apk":"","changements":[]}
+{
+  "code": 8,
+  "nom": "1.8",
+  "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
+  "changements": [
+    "Mise à jour sur place : l'appli te propose les nouvelles versions à l'ouverture, avec cette liste.",
+    "Menus rangés par onglets : Forme, Images, Lignes, Visages, Projecteur.",
+    "Grille de points fine (9, 25 ou 49 points) pour épouser les arêtes, pentes et arrondis.",
+    "Ligne de lumière : un personnage ou un objet sort de la ligne ou y rentre, le reste reste noir.",
+    "Simulation sur une photo du lieu, avec projecteur et cône de lumière.",
+    "Formes 3D déjà déformées, personnages animés, globe, porte et visages réglables.",
+    "Connexion au projecteur dans un seul menu."
+  ]
+}

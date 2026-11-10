@@ -1,8 +1,9 @@
 {
-  "code": 24,
-  "nom": "1.24",
+  "code": 25,
+  "nom": "1.25",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Nouvelle icône : le badge avec le projecteur, la manette, le téléphone et la scène projetée sur le mur."
+    "Nouveau style en verre translucide pour tous les boutons et cadres : reflet, ombre et effet d'enfoncement quand on appuie.",
+    "Pictogrammes dessinés au trait sur la barre du bas (forme, images, lignes, visages, projecteur)."
   ]
 }

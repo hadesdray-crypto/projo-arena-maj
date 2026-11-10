@@ -1,9 +1,9 @@
 {
-  "code": 28,
-  "nom": "1.28",
+  "code": 29,
+  "nom": "1.29",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Nouveau : « Tout remettre à zéro » (onglet Projecteur) : forme, taille, déformation, image, ligne et visage reviennent au départ, avec retour possible.",
-    "L'aperçu explique ses traits : la ligne lumineuse est étiquetée et une légende décrit le trait bleu, les ronds jaunes et les pointillés roses."
+    "Jeu de tir : on peut tenir le téléphone comme un pistolet (tranche du haut ou du côté) et viser le long du bord.",
+    "Onglet Images : « noirs absolus » et « garder seulement ce qui bouge » pour projeter une vidéo sur fond noir, seule l'animation est éclairée."
   ]
 }

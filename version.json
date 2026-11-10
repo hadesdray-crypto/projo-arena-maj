@@ -1,14 +1,15 @@
 {
-  "code": 13,
-  "nom": "1.13",
+  "code": 14,
+  "nom": "1.14",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
+    "Un seul gros bouton rouge « RELIER MON PROJECTEUR » en haut de l'écran : l'appli cherche toute seule, et ne pose des questions que si elle ne trouve rien.",
+    "Il devient vert quand le projecteur est relié.",
+    "À la toute première ouverture, la recherche se lance toute seule.",
     "Assistant de connexion pas à pas, tout en français : câble, wifi du téléphone (partage de connexion) ou recopie d'écran, une étape à la fois.",
     "Un gros bouton « Me connecter au projecteur (pas à pas) » en tête de l'onglet Projecteur.",
     "Trois couches dans l'aperçu, une à la fois : 1 Distorsion (ronds jaunes), 2 Image (glisser, pincer), 3 Contour (points de la forme).",
     "Mode Contour : touche un point de la forme pour le tirer, touche un trait pour y créer un coin et le tirer en pointe.",
-    "Boutons du mode Contour : point rond ou angle droit, supprimer le point, forme d'origine.",
-    "Vidéo du téléphone : tu choisis la vidéo, puis l'image qui sert au cadrage avec un curseur, tu cadres et déformes sur cette image, puis Lecture : la vidéo suit ton cadrage, avec le son.",
-    "Réglages de la vidéo : qualité de l'image (légère, normale, haute), volume, son coupé."
+    "Boutons du mode Contour : point rond ou angle droit, supprimer le point, forme d'origine."
   ]
 }

@@ -1,10 +1,9 @@
 {
-  "code": 19,
-  "nom": "1.19",
+  "code": 20,
+  "nom": "1.20",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Nouveau : jeux avec le téléphone. Jeu de tir (canards, animaux cachés, cibles) visé au gyroscope, avec étalonnage sur les 4 coins.",
-    "Choix de l'arme et de la difficulté, vibrations et sons, meilleur score gardé.",
-    "Écran d'explication des accès au premier lancement : tout reste dans le téléphone, sans internet."
+    "Le jeu de tir utilise maintenant de vrais dessins : canards, oiseaux, lapins, taupes, poule, cibles, décor de campagne.",
+    "Image du jeu plus fine sur le mur (720 lignes au lieu de 540)."
   ]
 }

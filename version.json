@@ -1,8 +1,8 @@
 {
-  "code": 22,
-  "nom": "1.22",
+  "code": 23,
+  "nom": "1.23",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Nouvelle icône de l'appli : le petit projecteur qui éclaire une porte."
+    "Nouvelle icône de l'appli, plus nette : le projecteur crème, son faisceau doré et la porte lumineuse."
   ]
 }

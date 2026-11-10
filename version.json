@@ -1,9 +1,9 @@
 {
-  "code": 27,
-  "nom": "1.27",
+  "code": 28,
+  "nom": "1.28",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Dans les jeux, le menu pause propose « Régler la projection » : on ajuste la forme sans quitter la partie, le jeu s'y adapte.",
-    "Onglets du bas avec icônes en verre."
+    "Nouveau : « Tout remettre à zéro » (onglet Projecteur) : forme, taille, déformation, image, ligne et visage reviennent au départ, avec retour possible.",
+    "L'aperçu explique ses traits : la ligne lumineuse est étiquetée et une légende décrit le trait bleu, les ronds jaunes et les pointillés roses."
   ]
 }

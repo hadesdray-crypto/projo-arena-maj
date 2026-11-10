@@ -1,8 +1,9 @@
 {
-  "code": 26,
-  "nom": "1.26",
+  "code": 27,
+  "nom": "1.27",
   "apk": "https://raw.githubusercontent.com/hadesdray-crypto/projo-arena-maj/main/projo-arena.apk",
   "changements": [
-    "Les onglets du bas ont maintenant de vraies icônes en verre (forme, images, lignes, visages, projecteur)."
+    "Dans les jeux, le menu pause propose « Régler la projection » : on ajuste la forme sans quitter la partie, le jeu s'y adapte.",
+    "Onglets du bas avec icônes en verre."
   ]
 }
